@@ -2,8 +2,8 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "lang": "en",
-  "name": "goals-mobile",
-  "short_name": "goals-mobile",
+  "name": "motify",
+  "short_name": "motify",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait"
 }

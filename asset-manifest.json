@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.2c587a6f.js",
+    "main.js": "/static/js/main.8bb9e068.js",
     "static/js/562.95d4bb38.js": "/static/js/562.95d4bb38.js",
     "static/media/MaterialCommunityIcons.ttf": "/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "favicon.ico": "/favicon.ico",
     "index.html": "/index.html",
     "favicon-32.png": "/favicon-32.png",
     "favicon-16.png": "/favicon-16.png",
-    "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
-    "main.2c587a6f.js.map": "/static/js/main.2c587a6f.js.map",
+    "manifest.json": "/manifest.json",
+    "main.8bb9e068.js.map": "/static/js/main.8bb9e068.js.map",
     "562.95d4bb38.js.map": "/static/js/562.95d4bb38.js.map"
   },
   "entrypoints": [
     "static/js/562.95d4bb38.js",
-    "static/js/main.2c587a6f.js"
+    "static/js/main.8bb9e068.js"
   ]
 }
