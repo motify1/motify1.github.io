@@ -2,8 +2,8 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "lang": "en",
-  "name": "motify",
-  "short_name": "motify",
+  "name": "Motify",
+  "short_name": "Motify",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait"
 }
