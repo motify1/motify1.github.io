@@ -5,5 +5,17 @@
   "name": "Motify",
   "short_name": "Motify",
   "start_url": "/?utm_source=web_app_manifest",
-  "orientation": "portrait"
+  "orientation": "portrait",
+  "related_applications": [
+    {
+      "platform": "itunes",
+      "id": "com.davidnguyen91.motify"
+    },
+    {
+      "platform": "play",
+      "url": "http://play.google.com/store/apps/details?id=com.davidnguyen91.motify",
+      "id": "com.davidnguyen91.motify"
+    }
+  ],
+  "prefer_related_applications": true
 }
