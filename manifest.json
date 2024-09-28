@@ -1,13 +1,13 @@
 {
   "manifest_version": 3,
-  "name": "My Website Extension",
-  "description": "An extension that loads my website.",
+  "name": "Focus Farm",
+  "description": "Focus on your dream",
   "version": "1.0",
   "action": {
     "default_icon": {
-      "16": "icon.jpg",
-      "48": "icon.jpg",
-      "128": "icon.jpg"
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
     }
   },
   "background": {
