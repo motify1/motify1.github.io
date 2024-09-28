@@ -3,6 +3,6 @@ chrome.action.onClicked.addListener(() => {
       url: "https://motify1.github.io/",
       type: "popup",
       width: 450,
-      height: 600
+      height: 800
     });
   });
